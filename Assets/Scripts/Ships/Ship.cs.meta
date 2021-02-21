@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fecdc2726b9d7474d97fa355c982b69c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_targetDestination: {instanceID: 0}
+  - m_lootPrefab: {fileID: 4692868419380908967, guid: d22b599f1e76cca4c828161c97b66076,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
