@@ -10,3 +10,5 @@ Parts done by me:
 - All pirate island NPCs and the NPC services including banking, ship repair, ship upgrade and trade.
 
 - Some gameplay stuff, Health Component, Language Switching Component etc.
+
+<img src="Images/Cover%20Image.png" width=1000>
